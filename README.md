@@ -15,18 +15,8 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shariful-Islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shariful-Islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shariful-Islam&theme=github&bg_color=1A1B27&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
 
 ## 🌍 Connect with Me
 
