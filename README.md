@@ -15,8 +15,6 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 
 ## 📊 GitHub Stats
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
 
 ## 🌍 Connect with Me
 
