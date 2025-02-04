@@ -8,11 +8,7 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 
 ## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -26,6 +22,11 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shariful-Islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shariful-Islam&theme=github&bg_color=1A1B27&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
 ## 🌍 Connect with Me
 
