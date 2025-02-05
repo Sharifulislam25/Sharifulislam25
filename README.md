@@ -5,15 +5,25 @@
 ## 👋 About Me
 
 Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**  with interests in **AI, Machine Learning,Researching and Software Development**. I love contributing to open-source projects and sharing knowledge with the community!
+<h1 align="center">Hi 👋, I'm Sharifulislam25</h1>
 
 ## ⚡ Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Sharifulislam25&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharifulislam25&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifulislam25&layout=compact&theme=radical" alt="Top Languages" />
+
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharifulislam25&theme=tokyo-night" alt="Activity Graph" />
 
 ## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifulislam25&layout=compact&theme=radical)
+
 
 
 ## 🌍 Connect with Me
