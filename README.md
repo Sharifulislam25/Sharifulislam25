@@ -17,6 +17,7 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 ![Python](https://img.shields.io/badge/-Python-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📊 GitHub Stats
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Sharifulislam25&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifulislam25&layout=compact&theme=radical" alt="Top Languages" />
 
@@ -36,7 +37,7 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shariful000@gmail.com)
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/1660f729-36f7-4130-88cc-8fed91970841)
+
 
 ---
 
