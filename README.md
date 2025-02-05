@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&animation=fadeIn)
 
+
+
+
 ## 👋 About Me
 
 Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**  with interests in **AI, Machine Learning,Researching and Software Development**. I love contributing to open-source projects and sharing knowledge with the community!
@@ -15,14 +18,13 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Sharifulislam25&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharifulislam25&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifulislam25&layout=compact&theme=radical" alt="Top Languages" />
+
 
 ### 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharifulislam25&theme=tokyo-night" alt="Activity Graph" />
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifulislam25&layout=compact&theme=radical)
+
 
 
 
@@ -32,6 +34,9 @@ Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shariful-Islam)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Shariful-Islam)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shariful000@gmail.com)
+
+<p align="center">
+![image](https://github.com/user-attachments/assets/1660f729-36f7-4130-88cc-8fed91970841)
 
 ---
 
