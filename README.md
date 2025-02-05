@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering** researcher with interests in **AI, Machine Learning, and Software Development**. I love contributing to open-source projects and sharing knowledge with the community!
+Hello! I'm **Shariful Islam**, a passionate **Computer Science and Engineering**  with interests in **AI, Machine Learning,Researching and Software Development**. I love contributing to open-source projects and sharing knowledge with the community!
 
 ## ⚡ Tech Stack
 
