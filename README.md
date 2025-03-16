@@ -10,7 +10,7 @@
     </a>
   </div>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sharifulislam25&style=for-the-badge&color=blue" alt="Profile views" />
