@@ -1,7 +1,7 @@
 <div align="center">
   
 # Shariful Islam
-### Machine Learning Engineer | AI Researcher | Software Developer
+### Machine Learning Engineer
 
   <div align="center">
     <a href="https://git.io/typing-svg">
@@ -23,13 +23,13 @@
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🚀 **Working On:** Advanced ML models for computer vision
-- 🧠 **Learning:** MLOps, Large Language Models, and GANs
+
+
 - 👨‍💻 **Collaborating On:** Open source AI/ML libraries
-- 💬 **Ask Me About:** Python, Machine Learning, Computer Vision
+
 - 📫 **Reach Me:** [shariful000@gmail.com](mailto:shariful000@gmail.com)
 - 📄 **Resume:** [View my resume](https://yourresume.com)
-- ⚡️ **Fun Fact:** I've contributed to projects with over 10K+ stars!
+
 
 ## 🛠 My Tech Stack
 
@@ -37,19 +37,12 @@
   <h3>Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </p>
 
-  <h3>Machine Learning & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </p>
-</div>
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -76,10 +69,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharifulislam25&theme=github_dark" width="31%" alt="Productive Time" />
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharifulislam25&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Featured Projects
@@ -118,11 +107,7 @@
   </a>
 </div>
 
-## ⏱️ My WakaTime Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sharifulislam25&theme=github_dark&hide_border=true&border_color=539BF5&title_color=539BF5&text_color=FFFFFF&icon_color=539BF5&layout=compact" alt="Shariful's WakaTime Stats" />
-</div>
 
 ## 📚 Latest Blog Posts
 
