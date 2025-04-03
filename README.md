@@ -1,7 +1,38 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200" alt="Banner" />
   
-# Shariful Islam
-### Machine Learning Engineer
+  # Shariful Islam
+
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Computer Science Engineer
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h3>
+  
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&height=70&lines=Always+Learning;Problem+Solver;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+    </a>
+  </div>
+  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sharifulislam25&style=for-the-badge&color=0e75b6" alt="Profile views" />
+    <a href="https://github.com/Sharifulislam25?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sharifulislam25?style=for-the-badge&color=0e75b6&logo=github">
+    </a>
+    <a href="https://github.com/Sharifulislam25">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/Sharifulislam25?style=for-the-badge&color=0e75b6&logo=github">
+    </a>
+  </div>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Focus-Computer_Science-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Lives-Bangladesh-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Languages-English_&_Bengali-blue?style=for-the-badge" />
+  </div>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
   <div align="center">
     <a href="https://git.io/typing-svg">
