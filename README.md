@@ -1,7 +1,9 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=header&text=Shariful%20Islam&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=FFFFFF" />
+</div>
 <div align="center">
  
-  # Shariful Islam
+
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sharifulislam25&style=for-the-badge&color=0e75b6" alt="Profile views" />
