@@ -30,16 +30,8 @@
     </a>
   </div>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sharifulislam25&style=for-the-badge&color=blue" alt="Profile views" />
-    <a href="https://github.com/Sharifulislam25?tab=followers">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sharifulislam25?style=for-the-badge&color=blue&logo=github">
-    </a>
-    <a href="https://github.com/Sharifulislam25">
-      <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Sharifulislam25?style=for-the-badge&color=blue&logo=github">
-    </a>
-  </p>
-</div>
+  
+
 
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
