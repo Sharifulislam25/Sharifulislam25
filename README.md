@@ -40,7 +40,7 @@
 
 - 👨‍💻 **Collaborating On:** Open source AI/ML libraries
 
-- 📫 **Reach Me:** [shariful000@gmail.com](mailto:shariful000@gmail.com)
+- 📫 **Reach Me:** [shariful000@gmail.com](mailto:shariful000750@gmail.com)
 - 📄 **Resume:** [View my resume](https://yourresume.com)
 
 
@@ -49,9 +49,11 @@
 <div align="center">
   <h3>Programming Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
 
 
   </p>
