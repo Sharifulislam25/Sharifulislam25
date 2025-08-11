@@ -3,8 +3,6 @@
 </div>
 <div align="center">
  
-
-
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Sharifulislam25&style=for-the-badge&color=0e75b6" alt="Profile views" />
     <a href="https://github.com/Sharifulislam25?tab=followers">
@@ -32,17 +30,23 @@
 
   
 
-
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-
-
 - 👨‍💻 **Collaborating On:** Open source AI/ML libraries
-
 - 📫 **Reach Me:** [shariful000@gmail.com](mailto:shariful000750@gmail.com)
 - 📄 **Resume:** [View my resume](https://yourresume.com)
 
+## 🎓 University Courses Completed
+- C Programming
+- Data Structures
+- Algorithms
+- Database Management
+- Engineering Math
+- Numerical Methods
+- Digital Logic Design
+- Digital Electronics
+- Computational Biology and Chemistry
 
 ## 🛠 My Tech Stack
 
@@ -53,12 +57,8 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-
-
-
   </p>
-
-
+</div>
 
 ## 📊 GitHub Stats & Activity
 
@@ -76,15 +76,11 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharifulislam25&theme=github_dark" alt="Shariful's GitHub Activity Graph" />
   
-  <!-- Contribution Pie Chart -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharifulislam25&repo=Sharifulislam25&theme=github_dark" width="400" />
   
-  <!-- Adding contribution pie chart using github-profile-summary-cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharifulislam25&theme=github_dark" width="31%" alt="Contribution by Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharifulislam25&theme=github_dark" width="31%" alt="Most Committed Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharifulislam25&theme=github_dark" width="31%" alt="Productive Time" />
-</div>
-
 </div>
 
 ## 🔥 Featured Projects
@@ -93,8 +89,7 @@
   <a href="https://github.com/Sharifulislam25/project-1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharifulislam25&repo=Sharifulislam25&theme=github_dark&hide_border=true&border_color=539BF5&title_color=539BF5&text_color=FFFFFF&icon_color=539BF5" />
   </a>
-  <!-- Add more projects as needed -->
-</div>
+  </div>
 
 <div align="center">
   <h3>📌 Check out all of my repositories <a href="https://github.com/Sharifulislam25?tab=repositories">here</a>.</h3>
@@ -123,16 +118,11 @@
   </a>
 </div>
 
-
-
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 - [Building Advanced Neural Networks with PyTorch](https://yourwebsite.com/blog-1)
 - [Optimizing Machine Learning Models for Production](https://yourwebsite.com/blog-2)
 - [The Future of Computer Vision in Autonomous Systems](https://yourwebsite.com/blog-3)
-<!-- BLOG-POST-LIST:END -->
-
 ➡️ [More blog posts...](https://yourwebsite.com/blog)
 
 <div align="center">
