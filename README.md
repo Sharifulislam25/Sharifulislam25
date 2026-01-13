@@ -35,7 +35,7 @@
 
 - 👨‍💻 **Collaborating On:** Open source AI/ML libraries
 - 📫 **Reach Me:** [shariful000@gmail.com](mailto:shariful000750@gmail.com)
-- 📄 **Resume:** [View my resume](https://yourresume.com)
+- 📄 **Resume:** [View my resume](https://sites.google.com/diu.edu.bd/shariful-islam/home)
 
 ## 🎓 University Courses Completed
 - C Programming
@@ -114,12 +114,7 @@
   </a>
 </div>
 
-## 📚 Latest Blog Posts
 
-- [Building Advanced Neural Networks with PyTorch](https://yourwebsite.com/blog-1)
-- [Optimizing Machine Learning Models for Production](https://yourwebsite.com/blog-2)
-- [The Future of Computer Vision in Autonomous Systems](https://yourwebsite.com/blog-3)
-➡️ [More blog posts...](https://yourwebsite.com/blog)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Connect+with+me+today!" alt="Closing Message" />
