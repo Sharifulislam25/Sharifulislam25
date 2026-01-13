@@ -42,6 +42,13 @@
 - Data Structures
 - Algorithms
 - Database Management
+- Computer Network
+- Data Communication
+- Artificial Intelligence
+- Software Engineering
+- Operating System
+- Data Science
+- System Design and Analysis
 - Engineering Math
 - Numerical Methods
 - Digital Logic Design
@@ -83,17 +90,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharifulislam25&theme=github_dark" width="31%" alt="Productive Time" />
 </div>
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Sharifulislam25/project-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sharifulislam25&repo=Sharifulislam25&theme=github_dark&hide_border=true&border_color=539BF5&title_color=539BF5&text_color=FFFFFF&icon_color=539BF5" />
-  </a>
-  </div>
-
-<div align="center">
-  <h3>📌 Check out all of my repositories <a href="https://github.com/Sharifulislam25?tab=repositories">here</a>.</h3>
-</div>
 
 ## 🌐 Connect With Me
 
