@@ -55,7 +55,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shariful-islam/">
+  <a href="https://www.linkedin.com/in/shariful-islam-75ab45243/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
