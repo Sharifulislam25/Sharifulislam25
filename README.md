@@ -19,7 +19,7 @@
 - Email: [shariful000@gmail.com](mailto:shariful000750@gmail.com)
 - Resume: [View my resume](https://sites.google.com/diu.edu.bd/shariful-islam/home)
 
-## University Courses Completed
+## University Courses Completed 
 
 - Data Structures
 - Algorithms
@@ -32,6 +32,8 @@
 - Data Science
 - Data Communication
 - C Programming
+- Computer Graphics
+- Instrumentation and Control System
 - Digital Logic Design
 - Digital Electronics
 - Numerical Methods
