@@ -15,7 +15,8 @@
 
 ## About Me
 
-- Collaborating on open source AI/ML libraries
+- AI ML Enthusiast
+- 
 - Email: [shariful000@gmail.com](mailto:shariful000750@gmail.com)
 - Resume: [View my resume](https://sites.google.com/diu.edu.bd/shariful-islam/home)
 
